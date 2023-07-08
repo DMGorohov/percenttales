@@ -3,8 +3,8 @@
 The system will be narratively centered with a free describing combat system. The main idea is to give the player and the master the freedom to describe the fighting, magick and NPC interaction.
 Main language for the rulebook will be russian.
  
-**Credit:
-**
+**Credit:**
+
 - Design template from RPG-LaTeX-Template by Krozark released under the MIT license :   https://github.com/Krozark/RPG-LaTeX-Template
 - Sword : http://opengameart.org/content/medieval-sword
 - Icons : http://game-icons.net/
